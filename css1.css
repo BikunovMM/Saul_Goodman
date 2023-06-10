@@ -1,0 +1,134 @@
+h1{
+	text-align: center;
+}
+.bg1{
+	font-size: 38px;
+	font-style: bold;
+	margin-top: 0px;
+}
+.bg2{
+	font-size: 20px;
+	font-style: bold;
+}
+.block1{
+	background-color: darkgray;
+}
+.block2{
+	background-color: whitesmoke;
+}
+.bgFirst{
+	background:
+	url("p5.png") 1103px -60px / 480px 480px no-repeat,
+	url("p6.png") 50px 50px / 600px 600px no-repeat,
+	url("p3.png") 0px 0px / 100% 200% no-repeat;
+}
+.marginTop{
+	margin-top: 200px;
+}
+.marginLeft{
+	margin-left: 250px;
+	margin-top: -190px;
+}
+.block1{
+	background-color: white;
+	width: 670px;
+	height: 360px;
+	align-content: center;
+	margin-top: 420px;
+	margin-bottom: 25px;
+	margin-left: 905px;
+	margin-right: 25px;
+	border-radius: 0px 0px 25px 25px;
+}
+.gf1{
+	margin-left: 10px;
+	margin-top: -15px;
+	width: 200px;
+	height: 200px;
+}
+.block2{
+	background-color: white;
+	width: 600px;
+	height: 300px;
+	border-radius: 10px;
+	margin-left: 50px;
+	margin-top: 150px;
+	margin-bottom: 20px;
+}
+.left1{
+	margin-left: 20px;
+}
+.pic1{
+	margin-left: 700px;
+	margin-top: -400px;
+}
+.block3{
+	background-color: white;
+	width: 1200px;
+	height: 550px;
+	align-content: center;
+	margin-top: 150px;
+	margin-bottom: 20px;
+	margin-left: 180px;
+	margin-right: 200px;
+	border-radius: 25px 25px 25px 25px;
+}
+.p1{
+	width:350px;
+	height: 400px;
+	margin-left: 50px;
+}
+.p2{
+	width:280px;
+	height: 400px;
+	margin-left: 50px;
+}
+.p3{
+	width:320px;
+	height: 400px;
+	margin-left: 50px;
+}
+.t1{
+	margin-left: 150px;
+}
+.t2{
+	margin-left: 300px;
+}
+.t3{
+	margin-left: 250px;
+}
+.backPic1{
+	margin-left: -1200px;
+	margin-top: -510px;
+}
+.block4{
+	background-color: white;
+	width: 440px;
+	height: 300px;
+	align-content: center;
+	margin-top: 150px;
+	margin-bottom: 0px;
+	margin-left: 940px;
+	margin-right: 100px;
+	border-radius: 25px 25px 25px 25px;
+}
+.fr1{
+	width: 50px;
+	height: 20px;
+}
+.left2{
+	margin-left: 130px;
+}
+.ft1{
+	background-color: black;
+	width: 101%;
+	height: 100px;
+	margin-top: -8px;
+	margin-bottom: -10px;
+	margin-left: -8px;
+	margin-right: -10px;
+}
+.wt{
+	color: white;
+	padding: 10px;
+}
